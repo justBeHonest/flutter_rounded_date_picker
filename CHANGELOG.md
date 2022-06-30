@@ -1,4 +1,11 @@
 # Changelog
+## 3.0.1
+* Fixed dragable Cupertino date picker.
+* Fixed warning Flutter 3.0.
+
+## 3.0.0
+* Fixed SchedulerBinding.instance with nullable change.
+
 ## 2.0.2
 * add backgroundHeaderMonth field in MaterialRoundedDatePickerStyle
 
